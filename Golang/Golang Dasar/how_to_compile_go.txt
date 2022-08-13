@@ -1,0 +1,2 @@
+"go build name" Compile
+"go run name" Run without compile
